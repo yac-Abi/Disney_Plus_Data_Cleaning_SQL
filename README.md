@@ -31,7 +31,7 @@ This project shows how I took that raw CSV and turned it into a clean, usable SQ
   clic on convert text to column, choose delimited by comas and clic on finish.
 
 ---
-For the full strategic analysis (Audience insights, Top actors, and Growth metrics), please refer to the Disney_plus_EDA_analysis.sql file in this repository.
+For the full strategic analysis (Audience insights, Top actors,...), please refer to the Disney_plus_EDA_analysis.sql file in this repository.
 
 ### Tech Stack:
 `MySQL` ; `Data Cleaning` ; `ETL` ; `Problem Solving`
